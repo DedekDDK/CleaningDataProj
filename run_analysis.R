@@ -55,10 +55,8 @@ data<-inpdata %>%
         # Step3-Uses descriptive activity names to name the activities in the data set
         mutate(ActivityName=factor(activities[inpdata$Activity,2]))
 
-colnames(data)<-c("Subject",meanlabels,"ActivityName")
-
 # Step4-Appropriately labels the data set with descriptive variable names.
-#already done
+colnames(data)<-c("Subject",meanlabels,"ActivityName")
 
 # Step5-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 #so table should looks like:
