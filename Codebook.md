@@ -26,15 +26,15 @@ There were 6 Activities per Subject:
 #Features
 There are 66 Features in the dataset:
 
- 1. tBodyAcc_mean_X          
- 2. tBodyAcc_mean_Y          
- 3. tBodyAcc_mean_Z          
- 4. tGravityAcc_mean_X       
- 5. tGravityAcc_mean_Y       
- 6. tGravityAcc_mean_Z       
- 7. tBodyAccJerk_mean_X      
- 8. tBodyAccJerk_mean_Y      
- 9. tBodyAccJerk_mean_Z      
+1. tBodyAcc_mean_X          
+2. tBodyAcc_mean_Y          
+3. tBodyAcc_mean_Z          
+4. tGravityAcc_mean_X       
+5. tGravityAcc_mean_Y       
+6. tGravityAcc_mean_Z       
+7. tBodyAccJerk_mean_X      
+8. tBodyAccJerk_mean_Y      
+9. tBodyAccJerk_mean_Z      
 10. tBodyGyro_mean_X         
 11. tBodyGyro_mean_Y         
 12. tBodyGyro_mean_Z         
