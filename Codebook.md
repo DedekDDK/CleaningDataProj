@@ -8,7 +8,7 @@ Here you find the Codebook describing all the features in the dataset tidyset.tx
 #Dataset structure
 Dataset is a tidy version of measurements from gyroscopical device (Samsung mobile phone) measured by 30 Subjects in various activities, like Standing, Walking up, Lying etc.
 For each Subject and Activity, dataset is providing the Mean() value of multiple measurement points, which were already meaned over time in the original dataset.
-By this, we have single measurement values for each combination of Subject and Activity.
+By this, we have single measurement values for each combination of Subject and Activity. In other words, we did an average of all averages of the same subject and same activity. The same applies to the std() values, their values are averaged over the same subject and activity.
 
 #Subjects
 There were 30 Subjects measured. To keep the anonymity of the project, Subjects are named by Numbers from 1 to 30.
